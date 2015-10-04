@@ -73,7 +73,7 @@ public class Lesson_5_SCH {
         }
     }*/
 
-    public static void sort(int[] arr) {
+    /*public static void sort(int[] arr) {
         // selection sorter
         for (int barrier = 0; barrier < arr.length - 1; barrier++)
         {
@@ -85,7 +85,7 @@ public class Lesson_5_SCH {
                 }
             }
         }
-    }
+    }*/
 
 }
 
